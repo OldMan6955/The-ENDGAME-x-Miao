@@ -1,1 +1,890 @@
+215221914876351
+UWUmasterGatekeeperHusoLib
+1pin SMD Pad
+
+
 0
+1
+1
+UWUmasterGatekeeperHusoLib
+1pin SMD Pad FLOWER
+
+
+0
+1
+1
+UWUmasterGatekeeperHusoLib
+1pin SMD Pad Stars
+
+
+0
+1
+1
+UWUmasterGatekeeperHusoLib
+4X4X1.6mm tact switch Filets
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+5Way-non-reverse
+
+
+0
+6
+6
+UWUmasterGatekeeperHusoLib
+5Way-non-reverse no silk
+
+
+0
+6
+6
+UWUmasterGatekeeperHusoLib
+5Way-non-reverse no silk 3D Model
+
+
+0
+6
+6
+UWUmasterGatekeeperHusoLib
+12mm smd tactile push button switch 10mm hoch 3D
+C&K Switches 1P1T SMD PTS125 Series 12mm Tact Switch with Pegs, https://www.ckswitches.com/media/1462/pts125.pdf
+Button Tactile Switch SPST 1P1T
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+A4 Frame
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+0
+0
+UWUmasterGatekeeperHusoLib
+Buzzer_Mallory_AST1109MLTRQ
+Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf
+buzzer piezo
+0
+2
+2
+UWUmasterGatekeeperHusoLib
+CHOC NUR LÖCHER FÜR RENDER
+Hotswap footprint for Kailh Choc style switches
+
+0
+0
+0
+UWUmasterGatekeeperHusoLib
+Cherry-MX-Low-ArcadeButton-Keycap-big
+
+
+0
+2
+2
+UWUmasterGatekeeperHusoLib
+Cherry-MX-Low-ArcadeButton-Keycap-small
+
+
+0
+2
+2
+UWUmasterGatekeeperHusoLib
+Cherry-MX-Low-Profile Arcade
+
+
+0
+2
+2
+UWUmasterGatekeeperHusoLib
+Diode_SOD123 filets triangle
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+2
+2
+UWUmasterGatekeeperHusoLib
+Diode_SOD123 triangle clean
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+2
+2
+UWUmasterGatekeeperHusoLib
+Diode_SOD123 triangle clean x Vias
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+Elite-C-castellated-29pin-holes pads on backside
+
+
+0
+58
+29
+UWUmasterGatekeeperHusoLib
+GROMMET NUR LÖCHER für Render
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+2
+1
+UWUmasterGatekeeperHusoLib
+Grommet 6.6mm NO ARTWORK
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+0
+0
+UWUmasterGatekeeperHusoLib
+Helios_ACH
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+65
+34
+UWUmasterGatekeeperHusoLib
+Helios_ACH Helios 3D
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+65
+33
+UWUmasterGatekeeperHusoLib
+Helios_ACH_NO_SILK
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+65
+34
+UWUmasterGatekeeperHusoLib
+Helios_ACH_NO_SILK_3D
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+65
+34
+UWUmasterGatekeeperHusoLib
+JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal no silk
+JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+2
+2
+UWUmasterGatekeeperHusoLib
+JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal
+JST PH series connector, S3B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+3
+3
+UWUmasterGatekeeperHusoLib
+JST_PH_S7B-PH-K_1x07_P2.00mm_Horizontal no silk
+JST PH series connector, S7B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+7
+7
+UWUmasterGatekeeperHusoLib
+JST_PH_S8B-PH-K_1x08_P2.00mm_Horizontal no silk
+JST PH series connector, S8B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+8
+8
+UWUmasterGatekeeperHusoLib
+Kailh_ChocV1_HS_Sol_SOCKETxPURPZ
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+Kailh_ChocV1_HS_Sol_SOCKETxPURPZx1.5uMBK
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+Kailh_ChocV1_HS_Sol_SOCKETxPURPZx1uMBK
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+Kailh_ChocV1_HS_Sol_SOCKETxPURPZx1uMBKHoming
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+Kailh_ChocV1_HS_Sol_SOCKETxPURPZx1uMBK_GOLD
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+Kailh_ChocV1_HS_Sol_SOCKETxPURPZx1uMBK_white
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+Kailh_socket_MX_Solder x HS Arcade
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+Kailh_socket_MX_Solder x HS Arcade Keycap 20.9
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+Kailh_socket_MX_Solder x HS Arcade Keycap 20.9 bigpads
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+Kailh_socket_MX_Solder x HS Arcade Keycap 26.15
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+Kailh_socket_MX_Solder x HS Arcade Keycap 26.15 biggerpads
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+Kailh_socket_MX_Solder x HS Arcade x 3D MX Switch
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+Kailh_socket_MX_optional
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+Kailh_socket_PG1350 LED Window
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+2
+2
+UWUmasterGatekeeperHusoLib
+Kailh_socket_PG1350 LED Window ME Version
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+2
+2
+UWUmasterGatekeeperHusoLib
+Kailh_socket_PG1350 LED Window ME Version V2
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+2
+2
+UWUmasterGatekeeperHusoLib
+Kailh_socket_PG1350 LED Window ME Version V2 mit 3d
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+2
+2
+UWUmasterGatekeeperHusoLib
+Kailh_socket_PG1350 LED Window ME Version V2 mit 3d purpz
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+2
+2
+UWUmasterGatekeeperHusoLib
+Kailh_socket_PG1350_optional_CLEAN
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+LED_WS2812B-2020_PLCC4_2.0x2.0mm
+Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
+LED RGB NeoPixel Nano 2020
+0
+4
+4
+UWUmasterGatekeeperHusoLib
+LED_WS2812B-2020_PLCC4_2.0x2.0mm ArcadeButton
+Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
+LED RGB NeoPixel Nano 2020
+0
+4
+4
+UWUmasterGatekeeperHusoLib
+LED_WS2812B-2020_PLCC4_2.0x2.0mm ArcadeButton 3D
+Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
+LED RGB NeoPixel Nano 2020
+0
+4
+4
+UWUmasterGatekeeperHusoLib
+LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
+UWUmasterGatekeeperHusoLib
+LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm no silk
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
+UWUmasterGatekeeperHusoLib
+MCU NUR LÖCHER für Render
+
+
+0
+18
+18
+UWUmasterGatekeeperHusoLib
+MOUNTING HOLE 4mm ENDGAME
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+3
+1
+UWUmasterGatekeeperHusoLib
+MOUNTING HOLE 4mm ENDGAME Grommet 6.6mm
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+3
+1
+UWUmasterGatekeeperHusoLib
+MOUNTING HOLE 4mm ENDGAME Grommet 6.6mm NEW
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+3
+1
+UWUmasterGatekeeperHusoLib
+MOUNTING HOLE 4mm ENDGAME Grommet 6.6mm NEW BOTH SIDES
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+3
+1
+UWUmasterGatekeeperHusoLib
+MOUNTING HOLE 4mm ENDGAME Grommet 6.6mm NEW BOTH SIDES 8mm Radius
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+3
+1
+UWUmasterGatekeeperHusoLib
+MOUNTING HOLE 4mm ENDGAME Grommet 6.6mm NEW BOTH SIDES 8mm Radius Silver DONGLE
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+3
+1
+UWUmasterGatekeeperHusoLib
+MOUNTING HOLE 4mm ENDGAME Grommet 6.6mm NEW BOTH SIDES 8mm Radius extruded copper futura
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+3
+1
+UWUmasterGatekeeperHusoLib
+MOUNTING HOLE 4mm ENDGAME Grommet 6.6mm NEW BOTH SIDES 8mm Radius extruded no copper
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+3
+1
+UWUmasterGatekeeperHusoLib
+MOUNTING HOLE 4mm ENDGAME Grommet 6.6mm NEW BOTH SIDES 8mm Radius extruded no copper futura
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+3
+1
+UWUmasterGatekeeperHusoLib
+MOUNTING HOLE 4mm ENDGAME Grommet 6.6mm NEW BOTH SIDES 8mm Radius no copper
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+3
+1
+UWUmasterGatekeeperHusoLib
+MOUNTING HOLE 4mm ENDGAME Grommet 6.6mm NO ARTWORK
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+3
+1
+UWUmasterGatekeeperHusoLib
+MOUNTING HOLE 4mm ENDGAME Grommet 8 mm Inverted
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+3
+1
+UWUmasterGatekeeperHusoLib
+MOUNTING HOLE 4mm ENDGAME Grommet 8 mm NEW BOTH SIDES
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+3
+1
+UWUmasterGatekeeperHusoLib
+MX BAD Circle Art Front extruded
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+0
+0
+UWUmasterGatekeeperHusoLib
+MX BAD Circle Art Front silver
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+0
+0
+UWUmasterGatekeeperHusoLib
+MX HS Arcade Keycap 20.9 bigpads
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+UWUmasterGatekeeperHusoLib
+MX_SK6812MINI-E
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+4
+4
+UWUmasterGatekeeperHusoLib
+MX_SK6812MINI-E OLD MAN
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+4
+4
+UWUmasterGatekeeperHusoLib
+Miao_17_18_short_CUTOUT_MCU_FACING_UP
+
+
+0
+20
+18
+UWUmasterGatekeeperHusoLib
+Miao_SMD 3D Model
+
+
+0
+18
+18
+UWUmasterGatekeeperHusoLib
+Miao_SMD_3D_Model
+
+
+0
+18
+18
+UWUmasterGatekeeperHusoLib
+Miao_THT_plus_SMD
+
+
+0
+36
+18
+UWUmasterGatekeeperHusoLib
+Miao_THT_plus_SMD 3D Model
+
+
+0
+36
+18
+UWUmasterGatekeeperHusoLib
+Miao_THT_plus_SMD OLD MAN SPECIAL
+
+
+0
+20
+18
+UWUmasterGatekeeperHusoLib
+Miao_THT_plus_SMD OLD MAN SPECIAL 3D STEP
+
+
+0
+20
+18
+UWUmasterGatekeeperHusoLib
+Miao_THT_plus_SMD OLD MAN SPECIAL 3D STEP CUTOUT MCU FACING UP
+
+
+0
+20
+18
+UWUmasterGatekeeperHusoLib
+Miao_THT_plus_SMD_17_18_THT_CUTOUT_MCU_FACING_UP
+
+
+0
+20
+18
+UWUmasterGatekeeperHusoLib
+Miao_THT_plus_SMD_17_18_short_THT_CUTOUT_MCU_FACING_UP
+
+
+0
+20
+18
+UWUmasterGatekeeperHusoLib
+Mitsumi_SIQ-02FVS3
+
+
+0
+8
+4
+UWUmasterGatekeeperHusoLib
+Mitsumi_SIQ-02FVS3_NO_SILK
+
+
+0
+8
+4
+UWUmasterGatekeeperHusoLib
+Mitsumi_SIQ-02FVS3_NO_SILK_BIGGER_PADS
+
+
+0
+8
+4
+UWUmasterGatekeeperHusoLib
+MountingHole_3.5mm
+Mounting Hole 3.5mm, no annular
+mounting hole 3.5mm no annular
+0
+0
+0
+UWUmasterGatekeeperHusoLib
+PicoEZMate-Reinforced-Lite
+Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex Pico-EZmate side entry
+0
+22
+4
+UWUmasterGatekeeperHusoLib
+PicoEZMate-Reinforced-Lite 2.4mm pads
+Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex Pico-EZmate side entry
+0
+22
+4
+UWUmasterGatekeeperHusoLib
+PicoEZMate-Reinforced-Lite 2.4mm pads no silk
+Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex Pico-EZmate side entry
+0
+22
+4
+UWUmasterGatekeeperHusoLib
+PicoEZMate-Reinforced-Lite 2.4mm pads no silk bigger pads side
+Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex Pico-EZmate side entry
+0
+22
+4
+UWUmasterGatekeeperHusoLib
+RP2040-Zero
+WaveShare RP2040-Zero board, for thru-hole pads only (not the other SMD pads on the underside)
+
+0
+23
+23
+UWUmasterGatekeeperHusoLib
+RP2040-Zero Castelated
+
+
+0
+23
+23
+UWUmasterGatekeeperHusoLib
+RP2040-Zero Castelated NEW
+
+
+0
+23
+23
+UWUmasterGatekeeperHusoLib
+RP2040-Zero mittig
+WaveShare RP2040-Zero board, for thru-hole pads only (not the other SMD pads on the underside)
+
+0
+23
+23
+UWUmasterGatekeeperHusoLib
+RPi_Pico_SMD only purple no silk no 3 pins
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+40
+40
+UWUmasterGatekeeperHusoLib
+RPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+86
+43
+UWUmasterGatekeeperHusoLib
+RPi_Pico_SMD_TH purple
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+86
+43
+UWUmasterGatekeeperHusoLib
+RPi_Pico_SMD_TH purple no silk
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+86
+43
+UWUmasterGatekeeperHusoLib
+RPi_Pico_SMD_TH purple no silk no 3 pins
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+80
+40
+UWUmasterGatekeeperHusoLib
+R_0402_1005Metric_Pad0.72x0.64mm_HandSolder_NO_SILK
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+UWUmasterGatekeeperHusoLib
+Routing Help Pad
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+5
+1
+UWUmasterGatekeeperHusoLib
+Routing Help Pad 0.3 spacing
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+9
+1
+UWUmasterGatekeeperHusoLib
+Routing Help Pad 0.5 spacing
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+7
+1
+UWUmasterGatekeeperHusoLib
+SK6812-MINI-E mit LED v2 ohne silk
+
+
+0
+4
+4
+UWUmasterGatekeeperHusoLib
+SK6812-MINI-E mit LED v2 ohne silk ButtonBox
+
+
+0
+4
+4
+UWUmasterGatekeeperHusoLib
+SK6812-MINI-E mit LED v2 ohne silk ButtonBox 3D
+
+
+0
+4
+4
+UWUmasterGatekeeperHusoLib
+SK6812-MINI-E mit LED v2 ohne silk LED FRAME
+
+
+0
+4
+4
+UWUmasterGatekeeperHusoLib
+SW_MX_HS_1u ArcadeButtonBig3D
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+UWUmasterGatekeeperHusoLib
+SW_MX_HS_1u ArcadeButtonBig3D LED WINDOW
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+UWUmasterGatekeeperHusoLib
+SW_MX_HS_1u ArcadeButtonSmall
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+UWUmasterGatekeeperHusoLib
+SW_MX_HS_1u ArcadeButtonSmall3D
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+UWUmasterGatekeeperHusoLib
+SW_MX_HS_1u ArcadeButtonSmall3D LED WINDOW
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+UWUmasterGatekeeperHusoLib
+SW_PUSH_6mm_H5mm 15mm switch
+tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm
+tact sw push 6mm
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+SW_SPDT_PCM12
+Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
+
+0
+7
+3
+UWUmasterGatekeeperHusoLib
+SW_SPST_TL3342
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+SW_SPST_TL3342 ohne Silk
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+SW_Tactile_Angled_Switch_3D
+tactile switch SPST right angle, PTS645VL83-2 LFS
+tactile switch SPST angled PTS645VL83-2 LFS C&K Button
+0
+4
+2
+UWUmasterGatekeeperHusoLib
+SW_choc_v1_HS_1_5u_eblaster_purp_MBK_blk
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+UWUmasterGatekeeperHusoLib
+SW_choc_v1_HS_1_5u_filets_MBK_blk
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+UWUmasterGatekeeperHusoLib
+SW_choc_v1_HS_1u_eblaster_purp_MBK_blk
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+UWUmasterGatekeeperHusoLib
+SW_choc_v1_HS_1u_filets_MBK_blk
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+UWUmasterGatekeeperHusoLib
+SW_choc_v1_HS_Vias_1_5u_eblaster_purp_MBK_blk
+Hotswap footprint for Kailh Choc style switches
+
+0
+8
+2
+UWUmasterGatekeeperHusoLib
+SW_choc_v1_HS_Vias_1u_eblaster_purp_MBK_blk
+Hotswap footprint for Kailh Choc style switches
+
+0
+8
+2
+UWUmasterGatekeeperHusoLib
+USB_C_Receptacle_HRO_TYPE-C-31-M-12_NO_SILK
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+UWUmasterGatekeeperHusoLib
+UWUxLOVExPEACE Circle Art Front extruded
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+0
+0
+UWUmasterGatekeeperHusoLib
+breakaway-mousebites 5.2mm 0.8mm 4holes
+
+
+0
+0
+0
+UWUmasterGatekeeperHusoLib
+helios ohne gp10 11
+USB C pro micro compatible microcontroller
+
+0
+32
+32
+UWUmasterGatekeeperHusoLib
+rp2040-zero-tht
+
+
+0
+23
+23

@@ -1097,7 +1097,7 @@
     (property "Value" "SW_Push" (at 156.21 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 156.21 35.56 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 156.21 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 156.21 35.56 0)
@@ -1106,7 +1106,7 @@
     (pin "1" (uuid 40a8764f-3d73-4448-a9a2-0f3cbfc5a349))
     (pin "2" (uuid f38d69c6-88f5-40a2-afb4-ac9988ee7758))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW6") (unit 1)
         )
@@ -1128,7 +1128,7 @@
     (property "Value" "SW_Push" (at 142.24 90.17 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1_5u_eblaster_purp_MBK_blk" (at 142.24 90.17 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1_5u_filets_MBK_blk" (at 142.24 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 142.24 90.17 0)
@@ -1137,7 +1137,7 @@
     (pin "1" (uuid 69b3fda4-8c76-4867-9d71-31a55f76d04c))
     (pin "2" (uuid 268b64b1-c488-43d0-b8e7-bc22f2850b66))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW5") (unit 1)
         )
@@ -1159,7 +1159,7 @@
     (property "Value" "SW_Push" (at 226.06 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 226.06 35.56 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 226.06 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 226.06 35.56 0)
@@ -1168,7 +1168,7 @@
     (pin "1" (uuid 097b396f-35c2-4d38-85bd-8f64330dc20a))
     (pin "2" (uuid 7d589cf2-ec13-4001-9d45-0d3ae0086648))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW24") (unit 1)
         )
@@ -1190,7 +1190,7 @@
     (property "Value" "D_Small" (at 153.67 62.2299 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 151.13 60.96 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 151.13 60.96 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 151.13 60.96 90)
@@ -1199,7 +1199,7 @@
     (pin "1" (uuid 6cbe912b-fef5-44d5-939a-d8055f248dfc))
     (pin "2" (uuid 39ffd81a-3afc-4129-8477-430b79c2fafc))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D11") (unit 1)
         )
@@ -1221,7 +1221,7 @@
     (property "Value" "SW_Push" (at 184.15 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 184.15 72.39 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 184.15 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 184.15 72.39 0)
@@ -1230,7 +1230,7 @@
     (pin "1" (uuid eeec9131-b039-4d03-a91c-36a96bc5a642))
     (pin "2" (uuid df0602a1-6a3f-42c2-b2c0-d74624a546fa))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW14") (unit 1)
         )
@@ -1252,7 +1252,7 @@
     (property "Value" "D_Small" (at 223.52 44.4499 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 220.98 43.18 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 220.98 43.18 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.98 43.18 90)
@@ -1261,7 +1261,7 @@
     (pin "1" (uuid 3ef95e1a-226c-4d03-b2d7-90a81cd739ad))
     (pin "2" (uuid a0f903e1-ab1d-48b1-aca0-4261f638d569))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D32") (unit 1)
         )
@@ -1283,7 +1283,7 @@
     (property "Value" "D_Small" (at 153.67 81.2799 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 151.13 80.01 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 151.13 80.01 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 151.13 80.01 90)
@@ -1292,7 +1292,7 @@
     (pin "1" (uuid e02b9445-9d5b-4c24-9216-06a573e37d85))
     (pin "2" (uuid f7eb4e1b-84f2-4a8c-b088-98034972b1a5))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D12") (unit 1)
         )
@@ -1314,7 +1314,7 @@
     (property "Value" "D_Small" (at 251.46 44.4499 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 248.92 43.18 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 248.92 43.18 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 248.92 43.18 90)
@@ -1323,7 +1323,7 @@
     (pin "1" (uuid 46ed30d7-105a-4a52-8e5c-ac48048f6ada))
     (pin "2" (uuid 4f46dd51-8850-4bb9-9e6f-f1d18608b7b7))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D39") (unit 1)
         )
@@ -1345,7 +1345,7 @@
     (property "Value" "SW_Push" (at 198.12 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 198.12 72.39 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 198.12 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 198.12 72.39 0)
@@ -1354,7 +1354,7 @@
     (pin "1" (uuid d175f5ec-59b6-4cf3-9846-b1cb725df98a))
     (pin "2" (uuid 3f7ac420-73ba-468f-ba65-cb346145c963))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW18") (unit 1)
         )
@@ -1376,7 +1376,7 @@
     (property "Value" "D_Small" (at 237.49 44.4499 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 234.95 43.18 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 234.95 43.18 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 234.95 43.18 90)
@@ -1385,7 +1385,7 @@
     (pin "1" (uuid bfacdb6c-e055-444f-bec8-b3db17652e4b))
     (pin "2" (uuid 2fe25d84-6081-47e6-a0a3-db8de2fe7761))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D36") (unit 1)
         )
@@ -1407,7 +1407,7 @@
     (property "Value" "SW_Push" (at 156.21 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 156.21 53.34 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 156.21 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 156.21 53.34 0)
@@ -1416,7 +1416,7 @@
     (pin "1" (uuid b6469c59-13ed-4c6b-b6e4-ad7a26f1c2d5))
     (pin "2" (uuid 979b8d55-a174-4a95-8d10-f94d34a13206))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW7") (unit 1)
         )
@@ -1438,7 +1438,7 @@
     (property "Value" "SW_Push" (at 198.12 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 198.12 35.56 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 198.12 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 198.12 35.56 0)
@@ -1447,7 +1447,7 @@
     (pin "1" (uuid f9ab2e8b-f0e3-436a-98e2-d95cfda9b1d1))
     (pin "2" (uuid 4a7cb8b7-feb7-4173-a5c8-3c8b585b11b0))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW16") (unit 1)
         )
@@ -1469,7 +1469,7 @@
     (property "Value" "SW_Push" (at 170.18 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 170.18 53.34 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 170.18 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 170.18 53.34 0)
@@ -1478,7 +1478,7 @@
     (pin "1" (uuid 75fe2804-e3a9-409d-be87-eb7280d2cc0e))
     (pin "2" (uuid 4865b47b-3953-4cfd-9ee5-544688201da2))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW10") (unit 1)
         )
@@ -1500,7 +1500,7 @@
     (property "Value" "D_Small" (at 167.64 62.2299 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 165.1 60.96 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 165.1 60.96 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 165.1 60.96 90)
@@ -1509,7 +1509,7 @@
     (pin "1" (uuid d7f87092-ad63-4a83-8c6e-e1226a2d7036))
     (pin "2" (uuid 9c054291-f051-46ca-bdfa-04c0838e49ce))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D14") (unit 1)
         )
@@ -1531,7 +1531,7 @@
     (property "Value" "SW_Push" (at 254 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 254 35.56 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 254 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 254 35.56 0)
@@ -1540,7 +1540,7 @@
     (pin "1" (uuid 1b22aa8d-c8ff-4998-aa9c-1624b6e8ffe9))
     (pin "2" (uuid 0b616b53-cea5-4e48-b6d0-eb62f12e8fe2))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW31") (unit 1)
         )
@@ -1562,7 +1562,7 @@
     (property "Value" "SW_Push" (at 198.12 90.17 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1_5u_eblaster_purp_MBK_blk" (at 198.12 90.17 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1_5u_filets_MBK_blk" (at 198.12 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 198.12 90.17 0)
@@ -1571,7 +1571,7 @@
     (pin "1" (uuid 082ea7a1-15ea-4209-a014-1f185b2a0ade))
     (pin "2" (uuid 488c8c7c-e073-472d-a859-e393508d5f97))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW19") (unit 1)
         )
@@ -1593,7 +1593,7 @@
     (property "Value" "D_Small" (at 195.58 44.4499 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 193.04 43.18 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 193.04 43.18 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 193.04 43.18 90)
@@ -1602,7 +1602,7 @@
     (pin "1" (uuid 743328c4-886d-440e-8999-97b203a4fff7))
     (pin "2" (uuid 15b2b81e-ff1f-4abd-8094-8770b698592d))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D22") (unit 1)
         )
@@ -1624,7 +1624,7 @@
     (property "Value" "SW_Push" (at 184.15 90.17 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 184.15 90.17 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 184.15 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 184.15 90.17 0)
@@ -1633,7 +1633,7 @@
     (pin "1" (uuid 639bcdda-687e-4a79-be10-ada77cb55cba))
     (pin "2" (uuid a40793c2-d88b-47c5-942b-063591b8bd5c))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW15") (unit 1)
         )
@@ -1655,7 +1655,7 @@
     (property "Value" "D_Small" (at 195.58 99.0599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 193.04 97.79 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 193.04 97.79 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 193.04 97.79 90)
@@ -1664,7 +1664,7 @@
     (pin "1" (uuid a6b8e1ba-f253-4227-96b9-9b3194c0c42a))
     (pin "2" (uuid cc2416b0-bccb-41f6-a77c-365fcc30d073))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D25") (unit 1)
         )
@@ -1686,7 +1686,7 @@
     (property "Value" "SW_Push" (at 254 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 254 72.39 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 254 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 254 72.39 0)
@@ -1695,7 +1695,7 @@
     (pin "1" (uuid e6c7bc8e-0a71-4b0b-ba35-3048d508173f))
     (pin "2" (uuid 209b2e65-1c7e-4e50-95b5-30c4a56cccf7))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW33") (unit 1)
         )
@@ -1717,7 +1717,7 @@
     (property "Value" "D_Small" (at 251.46 62.2299 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 248.92 60.96 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 248.92 60.96 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 248.92 60.96 90)
@@ -1726,7 +1726,7 @@
     (pin "1" (uuid 52cbdb6e-facf-4d83-bc58-675ae3bcdbb2))
     (pin "2" (uuid 78300646-b464-4f7d-a1c7-de368cd10f43))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D40") (unit 1)
         )
@@ -1748,7 +1748,7 @@
     (property "Value" "D_Small" (at 139.7 99.0599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 137.16 97.79 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 137.16 97.79 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 97.79 90)
@@ -1757,7 +1757,7 @@
     (pin "1" (uuid a07ca994-41f3-4c85-9705-757bbca7ee65))
     (pin "2" (uuid 91dca7a1-bd51-4961-b792-3dfb3c3bbbf3))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D8") (unit 1)
         )
@@ -1779,7 +1779,7 @@
     (property "Value" "D_Small" (at 181.61 99.0599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 179.07 97.79 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 179.07 97.79 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 179.07 97.79 90)
@@ -1788,7 +1788,7 @@
     (pin "1" (uuid 9a424d86-b971-4a75-a7c2-89367533af37))
     (pin "2" (uuid 407c1a5b-f591-4e6b-b81a-6082e5c262bb))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D20") (unit 1)
         )
@@ -1810,7 +1810,7 @@
     (property "Value" "D_Small" (at 223.52 62.2299 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 220.98 60.96 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 220.98 60.96 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.98 60.96 90)
@@ -1819,7 +1819,7 @@
     (pin "1" (uuid 7eb7e88b-2986-49a9-821d-9c7a911e90f3))
     (pin "2" (uuid 41d52d1d-138a-494b-91b2-4e0cb6d2a73e))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D33") (unit 1)
         )
@@ -1841,7 +1841,7 @@
     (property "Value" "D_Small" (at 167.64 81.2799 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 165.1 80.01 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 165.1 80.01 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 165.1 80.01 90)
@@ -1850,7 +1850,7 @@
     (pin "1" (uuid c71ddf6e-65dc-4aa1-bf4b-0170568f0ffb))
     (pin "2" (uuid 7eef76f9-d6a1-44e5-8340-86b39bb3480b))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D15") (unit 1)
         )
@@ -1880,7 +1880,7 @@
     )
     (pin "1" (uuid bda88b0d-7cc5-4d89-a66e-11081cd892f7))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "J1") (unit 1)
         )
@@ -1897,7 +1897,7 @@
     (property "Value" "SW_Push" (at 170.18 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 170.18 72.39 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 170.18 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 170.18 72.39 0)
@@ -1906,7 +1906,7 @@
     (pin "1" (uuid 6dd4b1c6-885a-41f7-af08-0c81f726dd38))
     (pin "2" (uuid 21988a6d-92c5-4e47-8b6e-06550a96e59f))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW11") (unit 1)
         )
@@ -1928,7 +1928,7 @@
     (property "Value" "D_Small" (at 251.46 81.2799 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 248.92 80.01 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 248.92 80.01 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 248.92 80.01 90)
@@ -1937,7 +1937,7 @@
     (pin "1" (uuid 372b37b9-b69a-464c-b2ca-2c1ff63254ea))
     (pin "2" (uuid 171f7f7d-56d9-4fe1-bfe0-44ee22ec0a29))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D41") (unit 1)
         )
@@ -1959,7 +1959,7 @@
     (property "Value" "SW_Push" (at 240.03 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 240.03 35.56 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 240.03 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 240.03 35.56 0)
@@ -1968,7 +1968,7 @@
     (pin "1" (uuid 9607fb1b-a312-497d-8404-f7427c55e748))
     (pin "2" (uuid a7158b26-062b-4038-8be1-8e7f2e0a1348))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW28") (unit 1)
         )
@@ -1990,7 +1990,7 @@
     (property "Value" "SW_Push" (at 184.15 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 184.15 35.56 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 184.15 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 184.15 35.56 0)
@@ -1999,7 +1999,7 @@
     (pin "1" (uuid 67b21780-72e8-429c-b7ea-7e005b77bd1f))
     (pin "2" (uuid f5774388-ff16-4362-b9cf-a5f4fe9a9b3d))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW12") (unit 1)
         )
@@ -2021,7 +2021,7 @@
     (property "Value" "D_Small" (at 195.58 62.2299 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 193.04 60.96 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 193.04 60.96 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 193.04 60.96 90)
@@ -2030,7 +2030,7 @@
     (pin "1" (uuid a880f6f0-d2b7-4c01-b92e-bcb5ea940ed5))
     (pin "2" (uuid ddd119a0-d805-43bf-a2bd-5f77981efc67))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D23") (unit 1)
         )
@@ -2052,7 +2052,7 @@
     (property "Value" "SW_Push" (at 142.24 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 142.24 35.56 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 142.24 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 142.24 35.56 0)
@@ -2061,7 +2061,7 @@
     (pin "1" (uuid 3ce0ae90-62bb-460c-b932-13adc81d6cbc))
     (pin "2" (uuid 5bf77591-6247-44f8-916b-31e1d0fe9393))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW2") (unit 1)
         )
@@ -2083,7 +2083,7 @@
     (property "Value" "SW_Push" (at 140.97 186.8424 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_SPST_TL3342 ohne Silk" (at 140.97 186.69 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:4X4X1.6mm tact switch Filets" (at 140.97 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 140.97 186.69 0)
@@ -2092,7 +2092,7 @@
     (pin "1" (uuid 95de22a3-048b-4a6f-8072-b9a465c21d9c))
     (pin "2" (uuid 061103bf-1df4-48de-a6c1-251d84a70791))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "RSW2") (unit 1)
         )
@@ -2109,7 +2109,7 @@
     (property "Value" "SW_Push" (at 115.57 186.8424 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_SPST_TL3342 ohne Silk" (at 115.57 186.69 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:4X4X1.6mm tact switch Filets" (at 115.57 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 115.57 186.69 0)
@@ -2118,7 +2118,7 @@
     (pin "1" (uuid 9b4c9a96-dedd-48ce-871d-e4233d902b57))
     (pin "2" (uuid 8122ed3a-0190-4ebd-ba96-da5e212d1199))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "RSW1") (unit 1)
         )
@@ -2135,7 +2135,7 @@
     (property "Value" "D_Small" (at 139.7 62.2299 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 137.16 60.96 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 137.16 60.96 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 60.96 90)
@@ -2144,7 +2144,7 @@
     (pin "1" (uuid 3bbc87b3-27b1-4265-b570-53dca06c0b6f))
     (pin "2" (uuid 1ee69a31-9ab5-44df-a077-ee1e0fb452a7))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D6") (unit 1)
         )
@@ -2166,7 +2166,7 @@
     (property "Value" "SW_Push" (at 212.09 90.17 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1_5u_eblaster_purp_MBK_blk" (at 212.09 90.17 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1_5u_filets_MBK_blk" (at 212.09 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 212.09 90.17 0)
@@ -2175,7 +2175,7 @@
     (pin "1" (uuid 8a6eae88-c4df-4ef7-90bc-70f319e35f8f))
     (pin "2" (uuid 354a41ac-6ba0-44f3-a70f-6d486b69af01))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW23") (unit 1)
         )
@@ -2197,7 +2197,7 @@
     (property "Value" "SW_Push" (at 212.09 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 212.09 53.34 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 212.09 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 212.09 53.34 0)
@@ -2206,7 +2206,7 @@
     (pin "1" (uuid bc21e34d-f056-4d68-b0a5-d4d045decb72))
     (pin "2" (uuid e5b2064d-1372-46e0-b913-f19c1506186f))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW21") (unit 1)
         )
@@ -2228,7 +2228,7 @@
     (property "Value" "D_Small" (at 265.43 44.4499 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 262.89 43.18 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 262.89 43.18 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 262.89 43.18 90)
@@ -2237,7 +2237,7 @@
     (pin "1" (uuid 233538b5-acea-42c2-a779-eb935febc3fe))
     (pin "2" (uuid 61cdf710-6ec8-4c9c-9120-2b3ccd145dc7))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D44") (unit 1)
         )
@@ -2259,7 +2259,7 @@
     (property "Value" "SW_Push" (at 240.03 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 240.03 72.39 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 240.03 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 240.03 72.39 0)
@@ -2268,7 +2268,7 @@
     (pin "1" (uuid ebc2070b-ff54-4460-b87c-39d6c6298b66))
     (pin "2" (uuid 1dab7ae8-3526-4133-9933-3ec004226613))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW30") (unit 1)
         )
@@ -2290,7 +2290,7 @@
     (property "Value" "D_Small" (at 139.7 81.2799 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 137.16 80.01 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 137.16 80.01 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 80.01 90)
@@ -2299,7 +2299,7 @@
     (pin "1" (uuid 03666f20-ec06-470a-a2bf-aa2833c76291))
     (pin "2" (uuid 8a1f2e8a-d808-4f3c-96c6-dcc7fe5d7f5f))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D7") (unit 1)
         )
@@ -2321,7 +2321,7 @@
     (property "Value" "SW_Push" (at 267.97 90.17 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1_5u_eblaster_purp_MBK_blk" (at 267.97 90.17 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1_5u_filets_MBK_blk" (at 267.97 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 267.97 90.17 0)
@@ -2330,7 +2330,7 @@
     (pin "1" (uuid a72a5686-0470-43c9-9fe8-bc2cd014cca7))
     (pin "2" (uuid fd479e3d-a12e-4da7-ba46-ec0810d28bec))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW37") (unit 1)
         )
@@ -2352,7 +2352,7 @@
     (property "Value" "D_Small" (at 209.55 99.0599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 207.01 97.79 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 207.01 97.79 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 207.01 97.79 90)
@@ -2361,7 +2361,7 @@
     (pin "1" (uuid de31176e-5b6f-46b2-8de2-c94b0b6bce7a))
     (pin "2" (uuid ad2e9177-4edd-468a-9484-e952a06ab465))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D29") (unit 1)
         )
@@ -2383,7 +2383,7 @@
     (property "Value" "SW_Push" (at 198.12 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 198.12 53.34 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 198.12 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 198.12 53.34 0)
@@ -2392,7 +2392,7 @@
     (pin "1" (uuid d804e77a-bf68-4a00-aa48-7de579a64da4))
     (pin "2" (uuid 08876af0-7698-4dc9-9b3d-a818d0a0e03a))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW17") (unit 1)
         )
@@ -2414,7 +2414,7 @@
     (property "Value" "SW_Push" (at 184.15 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 184.15 53.34 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 184.15 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 184.15 53.34 0)
@@ -2423,7 +2423,7 @@
     (pin "1" (uuid 6b0ba743-4470-4630-93fd-245cae564485))
     (pin "2" (uuid c2eb8eb4-9ce1-41b7-a9f1-15422ff83470))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW13") (unit 1)
         )
@@ -2445,7 +2445,7 @@
     (property "Value" "D_Small" (at 209.55 81.2799 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 207.01 80.01 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 207.01 80.01 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 207.01 80.01 90)
@@ -2454,7 +2454,7 @@
     (pin "1" (uuid b28e0a5e-c835-4548-a612-a5c84f695a65))
     (pin "2" (uuid d4e5cfb7-5c86-46f4-86ab-442d9f50d320))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D28") (unit 1)
         )
@@ -2476,7 +2476,7 @@
     (property "Value" "D_Small" (at 195.58 81.2799 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 193.04 80.01 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 193.04 80.01 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 193.04 80.01 90)
@@ -2485,7 +2485,7 @@
     (pin "1" (uuid f1bb27bc-1829-472c-bf6b-87f6fc16cdb9))
     (pin "2" (uuid f973ae62-3d3a-4257-ade1-3000630453b1))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D24") (unit 1)
         )
@@ -2507,7 +2507,7 @@
     (property "Value" "D_Small" (at 223.52 81.2799 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 220.98 80.01 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 220.98 80.01 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.98 80.01 90)
@@ -2516,7 +2516,7 @@
     (pin "1" (uuid 573b63dc-2cf1-4f8a-a612-34d272370624))
     (pin "2" (uuid 2b901595-ca2c-4097-9aa5-00b4a93fbee8))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D34") (unit 1)
         )
@@ -2538,7 +2538,7 @@
     (property "Value" "SW_Push" (at 226.06 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 226.06 72.39 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 226.06 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 226.06 72.39 0)
@@ -2547,7 +2547,7 @@
     (pin "1" (uuid 9dc8fe1f-2e00-4cec-8b16-a54657fe532c))
     (pin "2" (uuid bdb8fc38-9645-4817-b9db-ca42ac747345))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW26") (unit 1)
         )
@@ -2569,7 +2569,7 @@
     (property "Value" "D_Small" (at 209.55 62.2299 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 207.01 60.96 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 207.01 60.96 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 207.01 60.96 90)
@@ -2578,7 +2578,7 @@
     (pin "1" (uuid 6b5baf37-6353-43e7-a948-30ea30fbf54b))
     (pin "2" (uuid 352c5e20-766e-423e-9aa5-d37bcba31cf2))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D27") (unit 1)
         )
@@ -2600,7 +2600,7 @@
     (property "Value" "D_Small" (at 139.7 44.4499 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 137.16 43.18 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 137.16 43.18 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 43.18 90)
@@ -2609,7 +2609,7 @@
     (pin "1" (uuid 9552d28a-7221-46c1-9d85-98f450949c4c))
     (pin "2" (uuid a0313010-361d-45f2-a634-8b3dead2276d))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D5") (unit 1)
         )
@@ -2631,7 +2631,7 @@
     (property "Value" "D_Small" (at 265.43 81.2799 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 262.89 80.01 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 262.89 80.01 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 262.89 80.01 90)
@@ -2640,7 +2640,7 @@
     (pin "1" (uuid 25553e64-0c06-40af-9819-6418fe05398d))
     (pin "2" (uuid 2e1599e5-5434-4027-bde1-4769c7daae5f))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D46") (unit 1)
         )
@@ -2662,7 +2662,7 @@
     (property "Value" "D_Small" (at 223.52 99.0599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 220.98 97.79 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 220.98 97.79 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.98 97.79 90)
@@ -2671,7 +2671,7 @@
     (pin "1" (uuid 48ff50d3-30a5-4975-a7ff-f02bafdb01c8))
     (pin "2" (uuid aeed4212-db62-4311-a028-6b7af6c7bdd0))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D35") (unit 1)
         )
@@ -2693,7 +2693,7 @@
     (property "Value" "D_Small" (at 153.67 44.4499 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 151.13 43.18 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 151.13 43.18 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 151.13 43.18 90)
@@ -2702,7 +2702,7 @@
     (pin "1" (uuid 4c19a674-1f21-4dc3-a623-154ae142c5e1))
     (pin "2" (uuid fbff3498-a085-459a-97ef-8c47ca17e035))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D10") (unit 1)
         )
@@ -2724,7 +2724,7 @@
     (property "Value" "SW_Push" (at 240.03 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 240.03 53.34 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 240.03 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 240.03 53.34 0)
@@ -2733,7 +2733,7 @@
     (pin "1" (uuid 669f867b-d5f4-4930-88be-bab4be76806e))
     (pin "2" (uuid 062c9794-e3df-48df-ad32-7c3ef6da0f09))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW29") (unit 1)
         )
@@ -2755,7 +2755,7 @@
     (property "Value" "SW_Push" (at 156.21 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 156.21 72.39 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 156.21 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 156.21 72.39 0)
@@ -2764,7 +2764,7 @@
     (pin "1" (uuid 9272229d-a6b9-4516-9fe3-fc4a72ebfe60))
     (pin "2" (uuid 97bbe02b-e5ff-4660-ab55-3469fddc1233))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW8") (unit 1)
         )
@@ -2786,7 +2786,7 @@
     (property "Value" "D_Small" (at 209.55 44.4499 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 207.01 43.18 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 207.01 43.18 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 207.01 43.18 90)
@@ -2795,7 +2795,7 @@
     (pin "1" (uuid f330805f-4940-481c-8daf-cc0d0a0f6449))
     (pin "2" (uuid 624b4f96-d816-4c3a-ba5c-6ea74eb1b451))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D26") (unit 1)
         )
@@ -2817,7 +2817,7 @@
     (property "Value" "SW_Push" (at 267.97 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 267.97 72.39 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 267.97 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 267.97 72.39 0)
@@ -2826,7 +2826,7 @@
     (pin "1" (uuid 0ca1743c-77bf-4f1d-bffc-6381d1e6df9c))
     (pin "2" (uuid 681dabf0-93c2-4b96-9a3e-66bd5549570f))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW36") (unit 1)
         )
@@ -2848,7 +2848,7 @@
     (property "Value" "SW_Push" (at 212.09 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 212.09 35.56 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 212.09 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 212.09 35.56 0)
@@ -2857,7 +2857,7 @@
     (pin "1" (uuid 6d6494c1-526c-46dd-9448-8820e24d3c8e))
     (pin "2" (uuid 0d00066f-8f29-469d-88cc-4952ac87f4b1))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW20") (unit 1)
         )
@@ -2879,7 +2879,7 @@
     (property "Value" "D_Small" (at 237.49 62.2299 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 234.95 60.96 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 234.95 60.96 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 234.95 60.96 90)
@@ -2888,7 +2888,7 @@
     (pin "1" (uuid 60f51ed1-2ced-4b65-aeea-370be1fd1d9a))
     (pin "2" (uuid 3448d172-17ad-4fc2-b0cd-a0a018f275e0))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D37") (unit 1)
         )
@@ -2910,7 +2910,7 @@
     (property "Value" "SW_Push" (at 254 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 254 53.34 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 254 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 254 53.34 0)
@@ -2919,7 +2919,7 @@
     (pin "1" (uuid 67413c4b-786e-41ca-8118-9912f76661b9))
     (pin "2" (uuid 55c5f1e9-7d0d-4372-964b-004cdaf4d873))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW32") (unit 1)
         )
@@ -2941,7 +2941,7 @@
     (property "Value" "D_Small" (at 237.49 81.2799 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 234.95 80.01 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 234.95 80.01 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 234.95 80.01 90)
@@ -2950,7 +2950,7 @@
     (pin "1" (uuid 421bf1af-2489-4aa6-a838-b16ab6fae2e7))
     (pin "2" (uuid bf02c7f3-f238-452b-8a32-39fd958ab79f))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D38") (unit 1)
         )
@@ -2972,7 +2972,7 @@
     (property "Value" "SW_Push" (at 212.09 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 212.09 72.39 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 212.09 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 212.09 72.39 0)
@@ -2981,7 +2981,7 @@
     (pin "1" (uuid 137b531d-a3a4-49bc-97d8-2295e35aaea4))
     (pin "2" (uuid 2335fd30-422f-4cc9-aeaf-fdb740294e86))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW22") (unit 1)
         )
@@ -3003,7 +3003,7 @@
     (property "Value" "D_Small" (at 265.43 62.2299 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 262.89 60.96 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 262.89 60.96 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 262.89 60.96 90)
@@ -3012,7 +3012,7 @@
     (pin "1" (uuid 679ae18a-29cd-41e6-ae26-6fbd27d593de))
     (pin "2" (uuid 8fc7b021-61ae-4d68-a59b-a163dbc96bbd))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D45") (unit 1)
         )
@@ -3034,7 +3034,7 @@
     (property "Value" "SW_Push" (at 170.18 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 170.18 35.56 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 170.18 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 170.18 35.56 0)
@@ -3043,7 +3043,7 @@
     (pin "1" (uuid 01cd39c0-802c-42c2-ba58-eae41b45b799))
     (pin "2" (uuid 4264066b-4b74-430e-b8af-7df5aa0ec444))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW9") (unit 1)
         )
@@ -3065,7 +3065,7 @@
     (property "Value" "SW_Push" (at 226.06 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 226.06 53.34 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 226.06 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 226.06 53.34 0)
@@ -3074,7 +3074,7 @@
     (pin "1" (uuid e6ed47aa-54e2-4025-9781-72aa54a55869))
     (pin "2" (uuid a448d5f0-372f-4d55-8980-044b9861e160))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW25") (unit 1)
         )
@@ -3096,7 +3096,7 @@
     (property "Value" "D_Small" (at 167.64 44.4499 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 165.1 43.18 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 165.1 43.18 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 165.1 43.18 90)
@@ -3105,7 +3105,7 @@
     (pin "1" (uuid 0639e1ee-d82b-4a8e-a29c-0dd92003c650))
     (pin "2" (uuid 0e1a9a29-e21f-44eb-ac5d-fe53f23a3e61))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D13") (unit 1)
         )
@@ -3127,7 +3127,7 @@
     (property "Value" "SW_Push" (at 267.97 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 267.97 35.56 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 267.97 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 267.97 35.56 0)
@@ -3136,7 +3136,7 @@
     (pin "1" (uuid b04843bd-9461-4de6-91e1-1898ccaf436a))
     (pin "2" (uuid 207d2c63-279c-476f-b01e-840d8621a85d))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW34") (unit 1)
         )
@@ -3158,7 +3158,7 @@
     (property "Value" "SW_Push" (at 142.24 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 142.24 53.34 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 142.24 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 142.24 53.34 0)
@@ -3167,7 +3167,7 @@
     (pin "1" (uuid 4af036f7-2a63-4bd0-aa6f-a4daff3c948d))
     (pin "2" (uuid 0840e2d3-aed4-4513-8772-9059bbd3dd80))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW3") (unit 1)
         )
@@ -3214,7 +3214,7 @@
     (pin "11" (uuid 0d696401-43c0-45a9-829c-5fa281459cb9))
     (pin "6" (uuid b01f771c-8838-49bd-9cbc-05cb67bf1d61))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "U1") (unit 1)
         )
@@ -3231,7 +3231,7 @@
     (property "Value" "D_Small" (at 181.61 44.4499 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 179.07 43.18 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 179.07 43.18 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 179.07 43.18 90)
@@ -3240,7 +3240,7 @@
     (pin "1" (uuid 62d3ea5e-eae4-487e-8a31-ec1fe8f241be))
     (pin "2" (uuid 53571fa2-baa1-4a2d-92b7-179d2c8add2b))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D17") (unit 1)
         )
@@ -3262,7 +3262,7 @@
     (property "Value" "D_Small" (at 265.43 99.0599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 262.89 97.79 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 262.89 97.79 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 262.89 97.79 90)
@@ -3271,7 +3271,7 @@
     (pin "1" (uuid aeeb6a5b-1fcb-41f8-b997-a84dd75aba6f))
     (pin "2" (uuid e9a84bd3-b12b-483f-84d2-836d9b1b42ff))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D47") (unit 1)
         )
@@ -3293,7 +3293,7 @@
     (property "Value" "D_Small" (at 181.61 62.2299 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 179.07 60.96 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 179.07 60.96 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 179.07 60.96 90)
@@ -3302,7 +3302,7 @@
     (pin "1" (uuid 15df3d6c-df6a-4f05-8e29-d3e7588ee6ca))
     (pin "2" (uuid 43b92913-2545-426d-9e3a-03e748570a17))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D18") (unit 1)
         )
@@ -3324,7 +3324,7 @@
     (property "Value" "SW_Push" (at 267.97 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 267.97 53.34 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 267.97 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 267.97 53.34 0)
@@ -3333,7 +3333,7 @@
     (pin "1" (uuid 38e3aac4-f005-4584-b33f-93c348327418))
     (pin "2" (uuid 848f37c4-dd38-41b5-9f6c-66e682b0db1d))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW35") (unit 1)
         )
@@ -3355,7 +3355,7 @@
     (property "Value" "SW_Push" (at 142.24 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 142.24 72.39 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 142.24 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 142.24 72.39 0)
@@ -3364,7 +3364,7 @@
     (pin "1" (uuid d4bf9edd-e588-4f1a-81cc-b6bc37227ea6))
     (pin "2" (uuid 3c36a2bb-eff3-4b05-bcc9-f41bc555e930))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW4") (unit 1)
         )
@@ -3386,7 +3386,7 @@
     (property "Value" "SW_Push" (at 226.06 90.17 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_eblaster_purp_MBK_blk" (at 226.06 90.17 0)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:SW_choc_v1_HS_1u_filets_MBK_blk" (at 226.06 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 226.06 90.17 0)
@@ -3395,7 +3395,7 @@
     (pin "1" (uuid 654a75a8-0c82-4ab6-beb9-744d0aca052a))
     (pin "2" (uuid 238a32a4-7892-4f2e-847f-e5a34f1ce95f))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "SW27") (unit 1)
         )
@@ -3417,7 +3417,7 @@
     (property "Value" "D_Small" (at 181.61 81.2799 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 triangle clean" (at 179.07 80.01 90)
+    (property "Footprint" "UWUmasterGatekeeperHusoLib:Diode_SOD123 filets triangle" (at 179.07 80.01 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 179.07 80.01 90)
@@ -3426,7 +3426,7 @@
     (pin "1" (uuid f0b0152f-e10e-4254-8020-edfef78489a9))
     (pin "2" (uuid 08b780e0-92f8-4768-86e6-f05abd95529f))
     (instances
-      (project "TheENDGAME MIAO NEW LAYOUT"
+      (project "TheENDGAME x Miao"
         (path "/1a30e4b6-03d7-4c78-8024-353d1219867a"
           (reference "D19") (unit 1)
         )
