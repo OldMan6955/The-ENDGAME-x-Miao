@@ -405,7 +405,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "TheENDGAME MIAO NEW LAYOUT.kicad_pro",
+    "filename": "TheENDGAME x Miao.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -441,7 +441,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../STEP_FILES/TheENDGAME MIAO CENTER.step",
+      "step": "../../3D/TheENDGAME MIAO CENTER.step",
       "vrml": "../../../../../../../Downloads/TheENDGAME Topmount Rev 0.3.wrl"
     },
     "page_layout_descr_file": ""
